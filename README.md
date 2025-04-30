@@ -51,6 +51,9 @@ pip install -r requirements.txt
 
    3. Explore dashboards!
 # Sample Dashboard
+![image](https://github.com/user-attachments/assets/98f7301c-cfc4-47ee-a6b3-9a5df0103704)
+
+
 # Use Cases
 This template can be adapted for:
 
