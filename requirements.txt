@@ -1,0 +1,13 @@
+pandas
+sqlalchemy
+pyodbc
+python-dotenv
+requests
+numpy
+tabulate
+openpyxl
+urllib.parse
+matplotib.pyplot
+seaborn
+os 
+zipfile
