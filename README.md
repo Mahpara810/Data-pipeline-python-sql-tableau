@@ -31,27 +31,33 @@ This project demonstrates an end-to-end data analytics workflow — from data ex
 5. Modular codebase and reusable scripts
 
 # How to Run
-
 1. Clone the Repository
-   
-git clone https://github.com/Mahpara810/Data-pipeline-python-sql-tableau
-   
-cd Data-pipeline-python-sql-tableau
-3. Set up Environment
-pip install -r requirements.txt
-5. Set up SQL Server
-  1.   Create a database and run the scripts in sql/ to set up tables.
+   git clone https://github.com/Mahpara810/Data-pipeline-python-sql-tableau
+   cd Data-pipeline-python-sql-tableau
+2. Set up Environment
+   pip install -r requirements.txt
+3. Set up SQL Server
+Create a database and run the scripts in the sql/ folder to set up tables.
 
-  2.    Load sample data if not already included.
+Load sample data if it's not already included.
+
 4. Run ETL with Python
-   Update connection strings in the Python scripts.
-   python python/etl_script.py
+Update the connection strings in the Python scripts if needed.
+
+Then run the ETL script:
+python python/etl_script.py
+
 5. Open Tableau Dashboard
-   1. Open .twb or .twbx file from tableau/ folder.
+1. Open the .twb or .twbx file from the tableau/ folder.
 
-   2. Connect to SQL Server or use the extracted data.
+2. Connect to SQL Server or use the extracted data.
 
-   3. Explore dashboards!
+3. Explore the dashboards!
+
+
+
+
+
 # Sample Dashboard
 ![Capture](https://github.com/user-attachments/assets/792d2dfd-cabe-44b3-920a-2f194f1165a7)
 
