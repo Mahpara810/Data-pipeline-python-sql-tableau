@@ -2,7 +2,7 @@
 End-to-end data analytics project using Python, SQL Server, and Tableau for ETL, storage, and visualization.
 # End-to-End Data Analytics Project using Python, SQL Server & Tableau
 This project demonstrates an end-to-end data analytics workflow — from data extraction and transformation using Python, to storage and querying with SQL Server, and finally data visualization using Tableau. It aims to generate meaningful business insights through automation and reporting.
-# Project Structure
+# 📁 Project Structure
 
 ```text
 ProjectName/
@@ -17,7 +17,7 @@ ProjectName/
 
 
 
-# Technologies Used
+# 💻 Technologies Used
 • Python (Pandas, SQLAlchemy/pyodbc) – for data extraction, transformation (ETL)
 
 • SQL Server – for data storage and querying
@@ -25,7 +25,7 @@ ProjectName/
 • Tableau – for building interactive dashboards
 
 • Optional: Jupyter Notebook for EDA and testing
-# Features
+# ✨ Features
 • Automated ETL using Python
 
 • Cleaned and normalized data stored in SQL Server
@@ -36,7 +36,7 @@ ProjectName/
 
 • Modular codebase and reusable scripts
 
-# How to Run
+# 🚀  How to Run
 
 ## 1. Clone the Repository
 
@@ -75,13 +75,13 @@ Enjoy exploring the visualized data insights!
 
 
 
-# Sample Dashboard
+# 📊 Sample Dashboard
 ![Capture](https://github.com/user-attachments/assets/792d2dfd-cabe-44b3-920a-2f194f1165a7)
 
 
 
 
-# Use Cases
+# ✅ Use Cases
 This template can be adapted for:
 
 • Sales Performance Analysis
@@ -94,11 +94,11 @@ This template can be adapted for:
 
 • Marketing Campaign Insights
  #  📚 Resources and References
-## 📊 Dataset Source:
+##  Dataset Source:
 Telco Customer Churn Dataset – Kaggle
 This dataset, provided by IBM Sample Data Sets, includes information about a telecom company's customers, such as services signed up for, customer account information, and whether or not the customer churned. It's commonly used for customer retention and churn prediction modeling.
 
-## 📖 Official Library Documentation:
+##  Official Library Documentation:
 
 • Pandas Documentation
 
@@ -115,18 +115,18 @@ This dataset, provided by IBM Sample Data Sets, includes information about a tel
 • IBM Developer – Predict customer churn with SciKit-Learn
 
 • Medium Article – Customer Churn Prediction with Telco Dataset
-#  Acknowledgments
+# 🌟 Acknowledgments
 • Thanks to IBM Sample Data Sets for providing the Telco Customer Churn dataset.
 
 • Special thanks to Kaggle for hosting and making the dataset easily accessible to the data science community.
 
-• Gratitude to the open-source community behind tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+• Gratitude to the open-source community behind tools like Pandas, NumPy, Matplotlib and Seaborn.
 
 • Appreciation to the authors of various tutorials and blog posts that helped guide the data exploration and model building process.
-# Contributions
+# 🤝Contributions
 Contributions are welcome! Please fork the repo, make your changes, and submit a pull request.
 
-# License
+# 📝 License
 This project is licensed under the [MIT License](LICENSE).
 
 
