@@ -33,12 +33,11 @@ This project demonstrates an end-to-end data analytics workflow — from data ex
 # How to Run
 
 1. Clone the Repository
-    cd \
+   
 git clone https://github.com/Mahpara810/Data-pipeline-python-sql-tableau
-   cd \
+   
 cd Data-pipeline-python-sql-tableau
 3. Set up Environment
-   cd \
 pip install -r requirements.txt
 5. Set up SQL Server
   1.   Create a database and run the scripts in sql/ to set up tables.
