@@ -79,7 +79,7 @@ Enjoy exploring the visualized data insights!
 
 
 
-# 📊 Sample Dashboard
+# 📊 Dashboard
 ![Capture](https://github.com/user-attachments/assets/792d2dfd-cabe-44b3-920a-2f194f1165a7)
 
 
