@@ -53,8 +53,12 @@ pip install -r requirements.txt
 
 •  Run the SQL scripts in the sql/ folder to set up the necessary tables.
 
-## 4. Load Sample Data
-• Ensure the sample data is loaded. If not already included, insert the data manually.
+## 4. Data Source
+### 📊 Data Source
+
+The dataset used in this project is publicly available on Kaggle:  
+[Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 
 ## 5. Run ETL with Python
 •  Update the database connection strings in the Python scripts as needed.
@@ -95,7 +99,7 @@ This template can be adapted for:
 • Marketing Campaign Insights
  #  📚 Resources and References
 ## 1. Dataset Source:
-Telco Customer Churn Dataset – Kaggle
+[Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 This dataset, provided by IBM Sample Data Sets, includes information about a telecom company's customers, such as services signed up for, customer account information, and whether or not the customer churned. It's commonly used for customer retention and churn prediction modeling.
 
 ## 2. Official Library Documentation:
