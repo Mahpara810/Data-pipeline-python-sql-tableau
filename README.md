@@ -18,23 +18,23 @@ ProjectName/
 
 
 # Technologies Used
-1. Python (Pandas, SQLAlchemy/pyodbc) – for data extraction, transformation (ETL)
+• Python (Pandas, SQLAlchemy/pyodbc) – for data extraction, transformation (ETL)
 
-2. SQL Server – for data storage and querying
+• SQL Server – for data storage and querying
 
-3. Tableau – for building interactive dashboards
+• Tableau – for building interactive dashboards
 
-4. Optional: Jupyter Notebook for EDA and testing
+• Optional: Jupyter Notebook for EDA and testing
 # Features
-1. Automated ETL using Python
+• Automated ETL using Python
 
-2. Cleaned and normalized data stored in SQL Server
+• Cleaned and normalized data stored in SQL Server
 
-3. Interactive dashboards in Tableau
+• Interactive dashboards in Tableau
 
-4. Real-world dataset (customizable)
+• Real-world dataset (customizable)
 
-5. Modular codebase and reusable scripts
+• Modular codebase and reusable scripts
 
 # How to Run
 
@@ -50,12 +50,15 @@ pip install -r requirements.txt
 ```
 ## 3. Set Up SQL Server
 •  Create a new database.
+
 •  Run the SQL scripts in the sql/ folder to set up the necessary tables.
+
 ## 4. Load Sample Data
 • Ensure the sample data is loaded. If not already included, insert the data manually.
 
 ## 5. Run ETL with Python
 •  Update the database connection strings in the Python scripts as needed.
+
 •  Execute the ETL script:
 ```bash
 python python/etl_script.py
