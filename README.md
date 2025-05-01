@@ -94,11 +94,11 @@ This template can be adapted for:
 
 • Marketing Campaign Insights
  #  📚 Resources and References
-##  Dataset Source:
+## 1. Dataset Source:
 Telco Customer Churn Dataset – Kaggle
 This dataset, provided by IBM Sample Data Sets, includes information about a telecom company's customers, such as services signed up for, customer account information, and whether or not the customer churned. It's commonly used for customer retention and churn prediction modeling.
 
-##  Official Library Documentation:
+## 2. Official Library Documentation:
 
 • Pandas Documentation
 
