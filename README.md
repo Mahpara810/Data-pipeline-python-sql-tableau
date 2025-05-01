@@ -37,6 +37,13 @@ ProjectName/
 5. Modular codebase and reusable scripts
 
 # How to Run
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/Mahpara810/Data-pipeline-python-sql-tableau
+cd Data-pipeline-python-sql-tableau
+
 1. Clone the Repository
    git clone https://github.com/Mahpara810/Data-pipeline-python-sql-tableau
    cd Data-pipeline-python-sql-tableau
