@@ -84,20 +84,51 @@ Enjoy exploring the visualized data insights!
 # Use Cases
 This template can be adapted for:
 
-1. Sales Performance Analysis
+• Sales Performance Analysis
 
-2. Customer Segmentation
+• Customer Segmentation
 
-3. Financial Reporting
+• Financial Reporting
 
-4. Healthcare Data Analysis
+• Healthcare Data Analysis
 
-5. Marketing Campaign Insights
+• Marketing Campaign Insights
+ #  📚 Resources and References
+## 📊 Dataset Source:
+Telco Customer Churn Dataset – Kaggle
+This dataset, provided by IBM Sample Data Sets, includes information about a telecom company's customers, such as services signed up for, customer account information, and whether or not the customer churned. It's commonly used for customer retention and churn prediction modeling.
+
+## 📖 Official Library Documentation:
+
+• Pandas Documentation
+
+• NumPy Documentation
+
+• Matplotlib Documentation
+
+• Seaborn Documentation
+
+• Scikit-learn Documentation
+
+## 📘 Additional Learning Resources (if applicable):
+
+• IBM Developer – Predict customer churn with SciKit-Learn
+
+• Medium Article – Customer Churn Prediction with Telco Dataset
+#  Acknowledgments
+• Thanks to IBM Sample Data Sets for providing the Telco Customer Churn dataset.
+
+• Special thanks to Kaggle for hosting and making the dataset easily accessible to the data science community.
+
+• Gratitude to the open-source community behind tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+
+• Appreciation to the authors of various tutorials and blog posts that helped guide the data exploration and model building process.
 # Contributions
 Contributions are welcome! Please fork the repo, make your changes, and submit a pull request.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
+
 
 
 
