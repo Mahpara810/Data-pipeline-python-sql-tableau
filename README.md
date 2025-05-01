@@ -7,12 +7,12 @@ This project demonstrates an end-to-end data analytics workflow — from data ex
 ```text
 ProjectName/
 │
-├── data/           # Raw or sample datasets
-├── python/         # Python scripts for ETL
-├── sql/            # SQL scripts (DDL/DML queries)
-├── tableau/        # Tableau workbooks (.twb/.twbx files or screenshots)
-├── README.md       # Project documentation
-└── requirements.txt # Python dependencies
+├── data/               # Raw or sample datasets
+├── python/             # Python scripts for ETL
+├── sql/                # SQL scripts (DDL/DML queries)
+├── tableau/            # Tableau workbooks (.twb/.twbx files or screenshots)
+├── README.md           # Project documentation
+└── requirements.txt    # Python dependencies
 ```
 
 
