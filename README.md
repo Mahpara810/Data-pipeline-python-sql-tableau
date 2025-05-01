@@ -54,7 +54,7 @@ pip install -r requirements.txt
 •  Run the SQL scripts in the sql/ folder to set up the necessary tables.
 
 ## 4. Data Source
-### 📊 Data Source
+
 
 The dataset used in this project is publicly available on Kaggle:  
 [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
