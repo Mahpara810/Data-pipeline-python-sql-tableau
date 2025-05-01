@@ -1,13 +1,17 @@
+# For accessing datasets from Kaggle
+kaggle
+
+# For data manipulation and analysis
 pandas
-sqlalchemy
-pyodbc
-python-dotenv
-requests
+
+# For numerical computing and array operations
 numpy
-tabulate
-openpyxl
-urllib.parse
-matplotib.pyplot
+
+# For basic data visualizations
+matplotlib
+
+# For statistical data visualizations
 seaborn
-os 
-zipfile
+
+# For creating and managing SQL database connections
+SQLAlchemy
