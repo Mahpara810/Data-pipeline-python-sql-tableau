@@ -43,29 +43,30 @@ ProjectName/
 ```bash
 git clone https://github.com/Mahpara810/Data-pipeline-python-sql-tableau
 cd Data-pipeline-python-sql-tableau
+```
+## 2. Set Up the Environment
+```bash
+pip install -r requirements.txt
+```
+## 3. Set Up SQL Server
+•  Create a new database.
+•  Run the SQL scripts in the sql/ folder to set up the necessary tables.
+## 4. Load Sample Data
+• Ensure the sample data is loaded. If not already included, insert the data manually.
 
-1. Clone the Repository
-   git clone https://github.com/Mahpara810/Data-pipeline-python-sql-tableau
-   cd Data-pipeline-python-sql-tableau
-2. Set up Environment
-   pip install -r requirements.txt
-3. Set up SQL Server
-Create a database and run the scripts in the sql/ folder to set up tables.
-
-Load sample data if it's not already included.
-
-4. Run ETL with Python
-Update the connection strings in the Python scripts if needed.
-
-Then run the ETL script:
+## 5. Run ETL with Python
+•  Update the database connection strings in the Python scripts as needed.
+•  Execute the ETL script:
+```bash
 python python/etl_script.py
+```
+## 6. Open Tableau Dashboard
+• Open the .twb or .twbx file from the tableau/ folder using Tableau.
 
-5. Open Tableau Dashboard
-1. Open the .twb or .twbx file from the tableau/ folder.
+• Connect to your SQL Server database or use the extracted data.
 
-2. Connect to SQL Server or use the extracted data.
-
-3. Explore the dashboards!
+## 7. Explore the Dashboards!
+Enjoy exploring the visualized data insights!
 
 
 
