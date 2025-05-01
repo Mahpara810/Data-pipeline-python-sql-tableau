@@ -2,6 +2,19 @@
 End-to-end data analytics project using Python, SQL Server, and Tableau for ETL, storage, and visualization.
 # End-to-End Data Analytics Project using Python, SQL Server & Tableau
 This project demonstrates an end-to-end data analytics workflow — from data extraction and transformation using Python, to storage and querying with SQL Server, and finally data visualization using Tableau. It aims to generate meaningful business insights through automation and reporting.
+### 📁 Project Structure
+
+```text
+ProjectName/
+│
+├── data/           # Raw or sample datasets
+├── python/         # Python scripts for ETL
+├── sql/            # SQL scripts (DDL/DML queries)
+├── tableau/        # Tableau workbooks (.twb/.twbx files or screenshots)
+├── README.md       # Project documentation
+└── requirements.txt# Python dependencies
+
+
 # Project Structure
 .
 ├── data/          # Raw or sample datasets
