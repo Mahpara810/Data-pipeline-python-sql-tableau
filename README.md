@@ -58,15 +58,22 @@ pip install -r requirements.txt
 
 The dataset used in this project is publicly available on Kaggle:  
 [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+## 5. Run the ETL and Data Modeling Notebook
 
+• Open the Jupyter Notebook:  
+  `notebooks/Telecom-customer-churn.ipynb`
 
-## 5. Run ETL with Python
-•  Update the database connection strings in the Python scripts as needed.
+• This notebook performs:
+  - Data loading and cleaning  
+  - Transformation into a star schema (fact and dimension tables)  
+  - Uploading the modeled tables to a SQL Server database
 
-•  Execute the ETL script:
-```bash
-python python/etl_script.py
-```
+• Ensure your SQL Server connection details (host, database, username, password) are correctly configured in the notebook.
+
+• After execution, verify that the star schema tables have been successfully created in SQL Server.
+
+• Then, connect **Tableau** directly to SQL Server to build your dashboards and visualizations.
+
 ## 6. Open Tableau Dashboard
 • Open the .twb or .twbx file from the tableau/ folder using Tableau.
 
