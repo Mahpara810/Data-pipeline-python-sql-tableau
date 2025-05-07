@@ -84,34 +84,34 @@ The dataset used in this project is publicly available on Kaggle:
 • Explore and analyze the visualized data insights to uncover trends, patterns, and key metrics.
 # 🧠 Business Problem
 
-1. How many customers have churned, and what is the overall churn rate?
+•  How many customers have churned, and what is the overall churn rate?
 
 
-2. Which customer groups (by gender, internet service type, and contract type) are most likely to churn?
+•  Which customer groups (by gender, internet service type, and contract type) are most likely to churn?
    
 
-3. How does the type of internet service (DSL, Fiber Optic, or None) affect customer churn rates?
+•  How does the type of internet service (DSL, Fiber Optic, or None) affect customer churn rates?
   
 
-4. Are customers on month-to-month contracts more likely to leave compared to one- or two-year contracts?
+•  Are customers on month-to-month contracts more likely to leave compared to one- or two-year contracts?
 
 
-5. Which payment methods are most commonly used, and do they influence customer retention?
+•  Which payment methods are most commonly used, and do they influence customer retention?
    
 
-6. How much revenue is generated at different stages of a customer's tenure?
+•  How much revenue is generated at different stages of a customer's tenure?
    
 
-7. Who are the top 10 highest-spending customers by average monthly charges?
+•  Who are the top 10 highest-spending customers by average monthly charges?
   
 
-8. Which internet service type is the most popular among customers?
+•  Which internet service type is the most popular among customers?
    
 
-9. What is the average tenure of customers, and how does it relate to loyalty and churn?
+•  What is the average tenure of customers, and how does it relate to loyalty and churn?
    
 
-10.  How many senior citizens live alone, and could this affect their churn behavior?
+•   How many senior citizens live alone, and could this affect their churn behavior?
 
 
 # 📊 Dashboard
