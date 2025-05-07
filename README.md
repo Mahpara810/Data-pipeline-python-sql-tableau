@@ -61,12 +61,11 @@ The dataset used in this project is publicly available on Kaggle:
 • This notebook performs:
   - Data loading and cleaning  
   - Transformation into a star schema (fact and dimension tables)  
-  - Uploading the modeled tables to a SQL Server database
+  - Uploading the transformed data into the existing tables in the SQL Server database.
 
 • Ensure your SQL Server connection details (host, database, username, password) are correctly configured in the notebook.
 
-• After execution, verify that the star schema tables have been successfully created in SQL Server.
-
+• After connecting, verify that data of the fact and dimension tables have been successfully loaded into SQL Server.
 ## 5. Set Up SQL Server
 •  Create a new database.
 
