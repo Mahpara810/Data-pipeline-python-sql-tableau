@@ -24,7 +24,7 @@ Data-pipeline-python-sql-tableau/
 
 • Tableau – for building interactive dashboards
 
-• Optional: Jupyter Notebook for EDA and testing
+• Jupyter Notebook – for EDA and testing
 # ✨ Features
 • Automated ETL using Python
 
