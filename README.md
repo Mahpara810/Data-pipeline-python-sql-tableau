@@ -5,7 +5,7 @@ This project demonstrates an end-to-end data analytics workflow — from data ex
 # 📁 Project Structure
 
 ```text
-ProjectName/
+Data-pipeline-python-sql-tableau/
 │
 ├── data/               # Raw or sample datasets
 ├── python/             # Python scripts for ETL
@@ -48,17 +48,12 @@ cd Data-pipeline-python-sql-tableau
 ```bash
 pip install -r requirements.txt
 ```
-## 3. Set Up SQL Server
-•  Create a new database.
-
-•  Run the SQL scripts in the sql/ folder to set up the necessary tables.
-
-## 4. Data Source
-
+## 3. Data Source
 
 The dataset used in this project is publicly available on Kaggle:  
+
 [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-## 5. Run the ETL and Data Modeling Notebook
+## 4 Run the ETL and Data Modeling Notebook
 
 • Open the Jupyter Notebook:  
   `notebooks/Telecom-customer-churn.ipynb`
@@ -72,17 +67,22 @@ The dataset used in this project is publicly available on Kaggle:
 
 • After execution, verify that the star schema tables have been successfully created in SQL Server.
 
-• Then, connect **Tableau** directly to SQL Server to build your dashboards and visualizations.
+## 5. Set Up SQL Server
+•  Create a new database.
+
+• Run the SQL scripts in the sql/ folder to create the required tables.
+
+• Make a connection to SQL Server from the Jupyter notebook using pyodbc or sqlalchemy.
+
+• Push the cleaned and transformed data from the notebook into the SQL Server tables using pandas.to_sql() or SQL queries.
 
 ## 6. Open Tableau Dashboard
 • Open the .twb or .twbx file from the tableau/ folder using Tableau.
 
-• Connect to your SQL Server database or use the extracted data.
+• Connect to your SQL Server database, or use the extracted data embedded in the workbook.
 
 ## 7. Explore the Dashboards!
-Enjoy exploring the visualized data insights!
-
-
+• Explore and analyze the visualized data insights to uncover trends, patterns, and key metrics.
 
 
 
